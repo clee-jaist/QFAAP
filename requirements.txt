@@ -11,3 +11,4 @@ tqdm
 pyrealsense2
 pillow
 pandas
+keyboard
