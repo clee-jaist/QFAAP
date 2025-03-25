@@ -26,7 +26,7 @@ Any questions or comments contact [Chenghao Li](chenghao.li@jaist.ac.jp).
 
 ## Installation
 
-This code was developed with Python 3.7 on Ubuntu 22.04.  Python requirements can installed by:
+This code was developed with Python 3.8 on Ubuntu 22.04.  Python requirements can installed by:
 
 ```bash
 pip install -r requirements.txt
