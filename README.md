@@ -4,10 +4,6 @@
 <img src="The pipline of QFAAP.jpg" width="100%"/>
 <br>
 
-<p align="center">
-<img src="Grasping example with QFAAP.jpg" width="100%"/>
-<br>
-
 The QFAAP is designed to enhance the safety of vision-guided robot grasping in Human-Robot Interaction (HRI) scenarios. It introduces an Adversarial Quality Patch (AQP) and a Projected Quality Gradient Descent (PQGD) that adapts to human hand shapes from the perspective of benign adversarial attacks, which can be used to reduce the grasping priority of hands and nearby objects,  enabling robots to focus on safer, more appropriate grasping targets.
 
 
@@ -72,6 +68,15 @@ And the evaluation process is followed by the training.
 ## Predicting
 1. The offline and realtime prediction of QFAAP is done by the `QFAAP_offline.py` and `QFAAP_realtime.py`.
 2. For the deployment of real-time hand segmentation, please refer to this repository [https://github.com/Unibas3D/Upper-Limb-Segmentationp](https://github.com/Unibas3D/Upper-Limb-Segmentation)
+
+<p align="center">
+<img src="QFAAP prediction example.jpg" width="100%"/>
+<br>
+
+<p align="center">
+<img src="Grasping example with QFAAP.jpg" width="100%"/>
+<br>
+
 
 ## Running on a Robot
 
