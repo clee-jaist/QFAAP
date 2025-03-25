@@ -79,5 +79,5 @@ And the evaluation process is followed by the training.
 1. Please reference this repository  [https://github.com/dougsm/ggcnn_kinova_grasping](https://github.com/dougsm/ggcnn_kinova_grasping).
 
 <p align="center">
-<img src="Grasping example with QFAAP.jpg" width="100%"/>
+<img src="Real Grasping example with QFAAP.jpg" width="100%"/>
 <br>
