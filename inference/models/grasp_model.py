@@ -4,7 +4,7 @@ import torch.nn.functional as F
 
 class GraspModel(nn.Module):
     """
-    An abstract model for grasp network in a common format.
+    An abstract model for GR-CovNet/GG-CNN/GG-CNN2 in a common format.
     """
 
     def __init__(self):
