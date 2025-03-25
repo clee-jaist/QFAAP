@@ -47,22 +47,7 @@ def parse_args():
 
 
 def quality_pgd(model, inputs, epsilon, alpha, num_iter, cropped_mask, ori_img, device):
-    """
-    Perform PGD attack on the given inputs.
 
-    Args:
-        model: The target model.
-        inputs: The input tensor.
-        epsilon: Maximum perturbation.
-        alpha: Step size.
-        num_iter: Number of iterations.
-        cropped_mask: Binary mask indicating the region to perturb.
-        ori_img: Original input image.
-        device: Compute device.
-
-    Returns:
-        Perturbation applied to inputs.
-    """
     perturbed_inputs = inputs.clone().detach().to(device)
     cropped_mask = cropped_mask.to(device)
 
