@@ -73,11 +73,11 @@ And the evaluation process is followed by the training.
 <img src="QFAAP prediction example.jpg" width="100%"/>
 <br>
 
-<p align="center">
-<img src="Grasping example with QFAAP.jpg" width="100%"/>
-<br>
-
 
 ## Running on a Robot
 
-Please reference this repository  [https://github.com/dougsm/ggcnn_kinova_grasping](https://github.com/dougsm/ggcnn_kinova_grasping).
+1. Please reference this repository  [https://github.com/dougsm/ggcnn_kinova_grasping](https://github.com/dougsm/ggcnn_kinova_grasping).
+
+<p align="center">
+<img src="Grasping example with QFAAP.jpg" width="100%"/>
+<br>
