@@ -270,7 +270,6 @@ def run():
     logging.info('Training size: {}'.format(len(train_indices)))
     logging.info('Validation size: {}'.format(len(val_indices)))
 
-    # Creating data samplers and loaders, 这里训练集和测试集内的数据顺序又分别被打乱
     train_sampler = torch.utils.data.sampler.SubsetRandomSampler(train_indices)
     val_sampler = torch.utils.data.sampler.SubsetRandomSampler(val_indices)
 
