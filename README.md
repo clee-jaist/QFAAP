@@ -38,7 +38,7 @@ Currently, all datasets are supported.
 
 ### Cornell Grasping Dataset
 
-1. Download the and extract [Cornell Dataset](https://www.kaggle.com/datasets/oneoneliu/cornell-grasp). 
+1. Download and extract [Cornell Dataset](https://www.kaggle.com/datasets/oneoneliu/cornell-grasp). 
 
 ### OCID Grasping Dataset
 
