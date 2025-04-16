@@ -67,7 +67,7 @@ And the evaluation process is followed by the training.
 
 ## Predicting
 1. The offline and realtime prediction of QFAAP is done by the `QFAAP_offline.py` and `QFAAP_realtime.py`.
-2. For the deployment of real-time hand segmentation, please refer to this repository [https://github.com/Unibas3D/Upper-Limb-Segmentationp](https://github.com/Unibas3D/Upper-Limb-Segmentation)
+2. For the deployment of real-time hand segmentation, please refer to this repository [https://github.com/Unibas3D/Upper-Limb-Segmentationp](https://github.com/Unibas3D/Upper-Limb-Segmentation) 
 
 <p align="center">
 <img src="QFAAP prediction example.jpg" width="100%"/>
@@ -76,7 +76,7 @@ And the evaluation process is followed by the training.
 
 ## Running on a Robot
 
-1. Please reference this repository  [https://github.com/dougsm/ggcnn_kinova_grasping](https://github.com/dougsm/ggcnn_kinova_grasping).
+1. Please reference this repository  [https://github.com/dougsm/ggcnn_kinova_grasping](https://github.com/dougsm/ggcnn_kinova_grasping) or [https://github.com/clee-jaist/MCIGP](https://github.com/clee-jaist/MCIGP)
 
 <p align="center">
 <img src="Real Grasping example with QFAAP.jpg" width="100%"/>
