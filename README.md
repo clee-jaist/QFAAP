@@ -58,7 +58,7 @@ All pre-trained grasping models for GG-CNN, GG-CNN2, GR-Convnet, and others can 
 All AQP trained by different grasping models and datasets are available at the 'AQP examples' file.
 
 ## Pre-trained Hand Segmentation Models
-All pre-trained Hand Segmentation models can be downloaded from [here](https://drive.google.com/drive/folders/1yd6nKRaRFG7-vIRMzp3JM11slkIvzUCr?usp=sharing).
+All pre-trained Hand Segmentation models can be downloaded from [here](https://github.com/Unibas3D/Upper-Limb-Segmentationp) or [here](https://drive.google.com/drive/folders/1yd6nKRaRFG7-vIRMzp3JM11slkIvzUCr?usp=sharing).
 
 ## Training/Evaluation
 
