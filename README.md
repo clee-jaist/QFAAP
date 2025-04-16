@@ -77,7 +77,7 @@ And the evaluation process is followed by the training.
 ## Running on a Robot
 
 1. Please reference this repository  [https://github.com/dougsm/ggcnn_kinova_grasping](https://github.com/dougsm/ggcnn_kinova_grasping)
-2. or [https://github.com/clee-jaist/MCIGP](https://github.com/clee-jaist/MCIGP)
+2. Or [https://github.com/clee-jaist/MCIGP](https://github.com/clee-jaist/MCIGP)
 
 <p align="center">
 <img src="Real Grasping example with QFAAP.jpg" width="100%"/>
