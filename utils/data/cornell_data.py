@@ -45,11 +45,7 @@ class CornellDataset(GraspDatasetBase):
 
         gtbbs = grasp.GraspRectangles.load_from_cornell_file(self.grasp_files[idx])
 
-        # 判断是否为poision testset，是则转为Attack-Acc evaluate
         if self.val is not None and idx in self.val:
-            # for other model
-            # gtbbs.offset((-128, -208))
-            # for ggcnn because of different input image size
             gtbbs.offset((-90, -170))
         else:
             center, left, top = self._get_crop_attrs(idx)
