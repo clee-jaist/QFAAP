@@ -13,7 +13,7 @@ If you use this work, please cite:
 ```text
 @inproceedings{clee2025qfaap,
 	title={Quality-Focused Active Adversarial Policy for Safe Grasping in Human-Robot Interaction},
-	author={Chenghao Li, Razvan Beuran and Nak Young Chong},
+	author={Chenghao, Li Razvan, Beuran and Nak Young, Chong},
 	booktitle={IEEE Transactions on Automation Science and Engineering},
 	year={2025}
 }
