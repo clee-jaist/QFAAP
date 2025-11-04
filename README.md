@@ -13,7 +13,7 @@ The QFAAP is designed to enhance the safety of vision-guided robot grasping in H
 
 This code was developed with Python 3.8 on Ubuntu 22.04.  Python requirements can installed by:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
