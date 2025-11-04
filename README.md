@@ -8,7 +8,7 @@ The QFAAP is designed to enhance the safety of vision-guided robot grasping in H
 
 [Paper](https://ieeexplore.ieee.org/document/11219053) | [Demo Videos](https://youtu.be/6acTdcnWYI4?si=rE0XfV-7e7l5jdTm)
 
-If you use this work, please cite (initial version):
+If you use this work, please cite:
 
 ```text
 @inproceedings{clee2025qfaap,
