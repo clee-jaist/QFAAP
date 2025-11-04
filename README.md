@@ -27,6 +27,13 @@ This code was developed with Python 3.8 on Ubuntu 22.04.  Python requirements ca
 pip install -r requirements.txt
 ```
 
+## Hardware
+
+The code was deployed by the UFactory 850/Xarm5 Robot and Intel RealSense D435i.
+
+1. UFactory Robot API: [https://github.com/xArm-Developer/xArm-Python-SDK](https://github.com/xArm-Developer/xArm-Python-SDK).
+2. Intel Realsense API: [https://github.com/IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense).
+
 ## Datasets
 
 Currently, all datasets are supported.
