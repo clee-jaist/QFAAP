@@ -6,7 +6,7 @@
 
 The QFAAP is designed to enhance the safety of vision-guided robot grasping in Human-Robot Interaction (HRI) scenarios. It introduces an Adversarial Quality Patch (AQP) and a Projected Quality Gradient Descent (PQGD) that adapts to human hand shapes from the perspective of benign adversarial attacks, which can be used to reduce the grasping priority of hands and nearby objects,  enabling robots to focus on safer, more appropriate grasping targets.
 
-[Website](https://clee-jaist.github.io/qfaap-project-page/) | [Paper](https://ieeexplore.ieee.org/document/11219053) | [Demo Videos](https://youtu.be/6acTdcnWYI4?si=rE0XfV-7e7l5jdTm)
+[Website](https://clee-jaist.github.io/qfaap-project-page/) | [Paper](https://ieeexplore.ieee.org/document/11219053) | [Video](https://youtu.be/6acTdcnWYI4?si=rE0XfV-7e7l5jdTm)
 
 If you use this work, please cite:
 
